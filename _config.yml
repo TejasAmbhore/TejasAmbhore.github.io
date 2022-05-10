@@ -1,9 +1,12 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Tejas Ambhore
+# subtitle: A Portfolio Jekyll Theme Built for Developers
+subtitle: My Website
+# description: >- # this means to ignore newlines until "baseurl:"
+#   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://tejasambhore.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
@@ -12,90 +15,95 @@ urls:
       url: /
     - text: About
       url: /about
-    - text: Blog
-      url: /blog
+    # - text: Blog
+    #   url: /blog
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
+    # - text: Shop
+    #   url : /shop
     - text: Contact
       url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
+author_logo: Tejas_Ambhore.jpg
+author: Tejas Ambhore
+author_bio: Hi, my name is Tejas Ambhore. I am all about Web, Open Source, DevOps and Music
+author_email: "tejasam2020@gmail.com"
 author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author_website_url: "https://tejasambhore.github.io"
+typewrite-text: I am a UG Student at IIT Kharagpur, a web developer and DevOps engineer
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
-author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
-              visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
-              visibility: true
+# author_work_experiences:
+#             - company_name: Google
+#               company_logo: google.png
+#               company_url: https://google.com
+#               designation: Software Engineer
+#               description: Worked on various Google Products
+#               visibility: true
+#             - company_name: Microsoft
+#               company_logo: microsoft.png
+#               company_url: https://microsoft.com
+#               designation: Azure Developer
+#               description: Worked on various Azure Cloud Products
+#               visibility: true
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
+              - college_logo: iit.jpeg
+                college_name: Indian Institute of Technology, Kharagpur
+                college_url: http://www.iitkgp.ac.in/
+                college_degree: Manufacturing Science and Engineering
                 description: Bachelor of Technology
                 visibility: true
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+              - project_thumbnail: itworksonlocal.png
+                project_title: it_works_on_local
+                project_description: A Platform built for the student community, having all the information of current, past and future happpenings of the institution.
+                project_url: https://tsgiitkgp.on.fleek.co/
                 visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+              - project_thumbnail: vct.png
+                project_title: VCT
+                project_description: A Webapp built for a treasure hunt competition based on Harry Potter theme
+                project_url: https://main.d1tauwel5c961v.amplifyapp.com/
+                visibility: true
+              - project_thumbnail: AnyTime.png
+                project_title: AnyTime Foods
+                project_description: An Application built for a food chain company
+                # project_url: https://main.d1tauwel5c961v.amplifyapp.com/
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+# twitter_username: johndoe
+github_username:  tejasambhore
+facebook_username: tejas.ambhore.77
+linkedin_username: tejas-ambhore-3634ba206
+# behance_username: johndoe
+instagram_username: tejas__ambhore
+# medium_username: johndoe
+# telegram_username: johndoe
+# dribbble_username: johndoe
+# flickr_username: johndoe
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
 # disqus_shortname: sujay-kundu
-hyvor_talk_website_id: 476
+# hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+# wakatime_username: sujaykundu777
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+# mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # contact form - (choose formspress or getform)
-# getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: johndoe@gmail.com
+getform_endpoint: 80857ae7-6c69-4c33-b86a-d5efd8219e7b
+formspree_email: tejasambhore@gmail.com
 
 # releases - widget can be (sidebar, modal or embed)
 olvy_organization: devlopr

@@ -1,9 +1,9 @@
 -
-  title: Mountains
-  directory: mountains
+  title: IIT Kharagpur Campus
+  directory: kgpcampus
   preview:
-    filename: 1.jpg
-    original: 1-thumbnail.jpg
+    filename: Main_building.jpg
+    original: Main_building.jpg
     sizes:
-    - 1-thumbnail.jpg
-    thumbnail: 1-thumbnail.jpg
+    - Main_building.jpg
+    thumbnail: Main_building.jpg

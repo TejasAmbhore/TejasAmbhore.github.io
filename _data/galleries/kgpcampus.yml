@@ -1,0 +1,38 @@
+picture_path: kgpcampus
+preview:
+  filename: 1
+  original: Main_Building.jpg
+  sizes:
+  - Main_Building.jpg
+  thumbnail: Main_Building.jpg
+pictures:
+- filename: 1
+  original: Main_Building.jpg
+  sizes:
+  - Main_Building.jpg
+  thumbnail: Main_Building.jpg
+- filename: 2
+  original: 2.2.jpg
+  sizes:
+  - 2.2.jpg
+  thumbnail: 2.2.jpg
+- filename: 3
+  original: Helipad.jpg
+  sizes:
+  - Helipad.jpg
+  thumbnail: Helipad.jpg
+- filename: 4
+  original: Lappy.jpg
+  sizes:
+  - Lappy.jpg
+  thumbnail: Lappy.jpg
+- filename: 5
+  original: Nehru_Museum.jpg
+  sizes:
+  - Nehru_Museum.jpg
+  thumbnail: Nehru_Museum.jpg
+- filename: 6
+  original: RK.jpg
+  sizes:
+  - RK.jpg
+  thumbnail: RK.jpg
