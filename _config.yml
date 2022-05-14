@@ -1,10 +1,10 @@
-title: Tejas Ambhore
+title: TejasAmbhore
 # subtitle: A Portfolio Jekyll Theme Built for Developers
 subtitle: My Website
 # description: >- # this means to ignore newlines until "baseurl:"
 #   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 description: >- # this means to ignore newlines until "baseurl:"
-   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+   I am pre-final year Student at IIT Kharagpur, a passsionate Web Developer and DevOps Engineer
 
 url: "https://tejasambhore.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -21,7 +21,7 @@ urls:
       url: /gallery
     # - text: Shop
     #   url : /shop
-    - text: Contact
+    - text: Contact Me
       url : /contact
 
 
@@ -29,11 +29,11 @@ urls:
 
 author_logo: Tejas_Ambhore.jpg
 author: Tejas Ambhore
-author_bio: Hi, my name is Tejas Ambhore. I am all about Web, Open Source, DevOps and Music
+author_bio: Hi, my name is Tejas Ambhore. I am a pre-final year Manufacturing Science and Engineering Undergraduate at IIT Kharagpur. I am passionate about Web Development, DevOps and Open Source. I Love working in a team, building a product which solves real world problems. Keeping the nerd me aside, I enjoy spending time talking about life and a am a melophile :P
 author_email: "tejasam2020@gmail.com"
 author_location: India
 author_website_url: "https://tejasambhore.github.io"
-typewrite-text: I am a UG Student at IIT Kharagpur, a web developer and DevOps engineer
+typewrite-text: I am a pre-final year Student at IIT Kharagpur and am all about Web, Open Source, DevOps and Music!!
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
