@@ -77,6 +77,11 @@ author_project_details:
                 project_description: An Application built for a food chain company
                 # project_url: https://main.d1tauwel5c961v.amplifyapp.com/
                 visibility: true
+              - project_thumbnail: TOHacks22.png
+                project_title: TOHacks 2022
+                project_description: Guide Mobile which is a web app takes an image as input, and it provides a speech as an output where the sentence is generated with an image captioning algorithm.
+                project_url: https://github.com/TejasAmbhore/TOHacks22
+                visibility: true
 
 # social links
 # twitter_username: johndoe
