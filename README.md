@@ -1,4 +1,3 @@
-# tejasambhore.github.io
 Personal Website hosted at https://tejasambhore.github.io <br/>
 Powered by [Jekyll](https://jekyllrb.com/) and the [devlopr theme](https://github.com/sujaykundu777/devlopr-jekyll) <br />
 <br />
